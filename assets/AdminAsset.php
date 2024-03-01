@@ -13,7 +13,7 @@ use yii\web\JqueryAsset;
 
 class AdminAsset extends AssetBundle
 {
-    public $sourcePath = '@vendor/diazoxide/yii2-blog/assets/default';
+    public $sourcePath = '@vendor/DauTuTuDau/yii2-blog/assets/default';
 
     public $baseUrl = '@web';
 

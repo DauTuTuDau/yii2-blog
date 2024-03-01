@@ -79,7 +79,7 @@ class m000001_000001_blog_post_type extends Migration
                     'single_pattern'  => '<div id="blog-container">
     <div class="col-md-8 col-md-push-4 home-slider-container">
         <div class="nopadding-xs">
-            [@vendor/diazoxide/yii2-blog/views/frontend/default/_article `{"post":"$post","showDate":"$showDate","dateType":"$dateType","showClicks":"$showClicks"}`]
+            [@vendor/DauTuTuDau/yii2-blog/views/frontend/default/_article `{"post":"$post","showDate":"$showDate","dateType":"$dateType","showClicks":"$showClicks"}`]
         </div>
     </div>
     <div class="col-md-4 col-md-pull-8 nospaces-xs">
@@ -93,7 +93,7 @@ class m000001_000001_blog_post_type extends Migration
                     'archive_pattern' => '<div id="blog-container">
     <div class="col-md-8 col-md-push-4 home-slider-container">
         <div class="nopadding-xs">
-            [```return yii\\widgets\\ListView::widget([ \'dataProvider\' => $dependencies[\'dataProvider\'], \'itemView\' => \'@vendor/diazoxide/yii2-blog/views/frontend/default/_post\', \'itemOptions\' => [ \'class\' => \'row top-buffer-20-xs\' ], \'layout\' => \'{items}{pager}{summary}\' ]);```]
+            [```return yii\\widgets\\ListView::widget([ \'dataProvider\' => $dependencies[\'dataProvider\'], \'itemView\' => \'@vendor/DauTuTuDau/yii2-blog/views/frontend/default/_post\', \'itemOptions\' => [ \'class\' => \'row top-buffer-20-xs\' ], \'layout\' => \'{items}{pager}{summary}\' ]);```]
         </div>
     </div>
     <div class="col-md-4 col-md-pull-8 nospaces-xs">
@@ -142,7 +142,7 @@ class m000001_000001_blog_post_type extends Migration
                     'single_pattern'  => '<div id="blog-container">
     <div class="col-xs-12">
         <div class="nopadding-xs">
-            [@vendor/diazoxide/yii2-blog/views/frontend/default/_article `{"post":"$post","showDate":"$showDate","dateType":"$dateType","showClicks":"$showClicks"}`]
+            [@vendor/DauTuTuDau/yii2-blog/views/frontend/default/_article `{"post":"$post","showDate":"$showDate","dateType":"$dateType","showClicks":"$showClicks"}`]
         </div>
     </div>
 </div>',

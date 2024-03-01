@@ -195,7 +195,7 @@ class Feed extends \yii\bootstrap\Widget
 
             /**
              * Deprecated
-             * 'itemView' => '@vendor/diazoxide/yii2-blog/widgets/views/_feed_item',
+             * 'itemView' => '@vendor/DauTuTuDau/yii2-blog/widgets/views/_feed_item',
              */
             'itemView' => function ($model, $key, $index, $widget) use($instance) {
                 return Article::widget([

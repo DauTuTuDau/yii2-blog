@@ -13,8 +13,8 @@ return [
     'color' => null,
     'interactive' => true,
     'help' => null,
-    'sourcePath' => '@vendor/diazoxide/yii2-blog/',
-    'messagePath' => '@vendor/diazoxide/yii2-blog/messages',
+    'sourcePath' => '@vendor/DauTuTuDau/yii2-blog/',
+    'messagePath' => '@vendor/DauTuTuDau/yii2-blog/messages',
     'languages' => [
         'en-US',
         'ru-RU',

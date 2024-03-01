@@ -12,7 +12,7 @@ use yii\web\AssetBundle;
 
 class TinymceFileManagerAsset extends AssetBundle
 {
-    public $sourcePath = '@vendor/diazoxide/yii2-blog/assets/tinymce_file_manager';
+    public $sourcePath = '@vendor/DauTuTuDau/yii2-blog/assets/tinymce_file_manager';
 
     public $baseUrl = '@web';
 

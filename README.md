@@ -104,7 +104,7 @@ $config['modules']['blog']['controllerNamespace'] = 'diazoxide\blog\controllers\
 > after install run migration command
 
 ```bash
-php yii migrate --migrationPath=@vendor/diazoxide/yii2-blog/migrations
+php yii migrate --migrationPath=@vendor/DauTuTuDau/yii2-blog/migrations
 ```
 
 # Customisation

@@ -41,9 +41,9 @@ class Module extends \yii\base\Module
 
     public $controllerNamespace = 'diazoxide\blog\controllers\frontend';
 
-    public $backendViewPath = '@vendor/diazoxide/yii2-blog/views/backend';
+    public $backendViewPath = '@vendor/DauTuTuDau/yii2-blog/views/backend';
 
-    public $frontendViewPath = '@vendor/diazoxide/yii2-blog/views/frontend';
+    public $frontendViewPath = '@vendor/DauTuTuDau/yii2-blog/views/frontend';
 
     public $frontendViewsMap = [];
 
